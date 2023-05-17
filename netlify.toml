@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/"
+  to = "https://northernkingsgt2023.co.uk/"
+  status = 301
+  force = true
